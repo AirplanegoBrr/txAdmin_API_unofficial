@@ -1,6 +1,6 @@
-# txAdmin API
+# [txAdmin](https://github.com/tabarra/txAdmin) API
 
-txAdmin doesnt have an API so I made one!
+[txAdmin](https://github.com/tabarra/txAdmin) doesnt have an API so I made one!
 
 This is very new! and some stuff is a little messy and not fully added!
 
@@ -14,4 +14,4 @@ Im still working on the following:
 
 - [ ] Auto CFG formater (so you dont need to format it)
 
-txAdmin devs if your reading this PLEASE don't change ur API to much :)
+[txAdmin](https://github.com/tabarra/txAdmin) devs if your reading this PLEASE don't change ur API to much :)
