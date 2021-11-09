@@ -1,0 +1,17 @@
+login system uses cookies
+Status needs to use cookies to get Status
+
+live console (consoles) uses cookies + socket.io
+POSTs to the server then GETS (bad way of doing but it could be how socket.io does stuff? )
+Will have to look into socket.io code :( (in ./scripts)
+room = liveconsole
+
+idiots have ALL socket code in the HTML :( (line 725)
+
+Ended up using socket.io! We didnt have to use all post requesrs!! very happy!
+
+Working on resorces
+
+restart just runs start command (ensure_res)
+
+stop uses stop_res
