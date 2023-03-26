@@ -1,4 +1,4 @@
-# [txAdmin](https://github.com/tabarra/txAdmin) API
+# [txAdmin](https://github.com/tabarra/txAdmin) API - NOT TESTED PAST 2022-20XX
 
 [txAdmin](https://github.com/tabarra/txAdmin) doesnt have an API so I made one!
 
